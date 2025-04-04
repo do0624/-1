@@ -1,0 +1,10 @@
+#s{
+display:flex;
+}
+#uoo_text,#uoo_text1,#uoo_text2,#uoo_text3,#uoo_text4,#uoo_text5{
+    
+    width: 70px;
+    bottom: 70px;
+    right: 70px;
+ left: 70px;
+}
